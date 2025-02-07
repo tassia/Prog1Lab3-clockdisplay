@@ -17,6 +17,21 @@ public class ClockDisplay
     private NumberDisplay hours;
     private NumberDisplay minutes;
     private String displayString;    // simulates the actual display
+   
+    /*
+     * Answers to extra chapter questions:
+     * 
+     * 30) private Rectangle window = new Rectangle(4, 5);
+     * 
+     * 33) Printer p1,p2;
+     * 
+     *     p1.print("xxxxxxxx",true);
+     *     
+     *     p2.print("file2",false);
+     *     
+     *     int status = p1.getStatus(3);
+     */
+    
     
     /**
      * Constructor for ClockDisplay objects. This constructor 
