@@ -1,7 +1,7 @@
-Project: clock-display
+# Project: clock-display
 Authors: David Barnes and Michael Kölling
 
-This project is part of the material for the book
+This project is part of the [material for the book](https://www.bluej.org/objects-first/resources/projects.zip)
 
    Objects First with Java - A Practical Introduction using BlueJ
    Sixth edition
